@@ -1,9 +1,9 @@
 const contentLetterSrart_actived = "Hí b :3" //Lời mở đầu cho bức thư
-const mainContentLetter = "Chúc mừng sinh nhật nhé! Vậy là m lại thêm một tuổi và t thì lại có thêm một năm chịu đựng sự 'lầy lội' của m! 5 năm làm bạn mà t vẫn chưa bị m 'đập' đến mức chạy mất dép là cũng tài lắm rồi đấy. Tuổi mới hy vọng cậu sẽ bớt thức khuya, chăm chỉ hơn một tí, và đặc biệt là nhớ bớt 'đập' b đê! Chúc m luôn vui vẻ, khỏe mạnh, gặp nhiều may mắn và lúc nào cũng tràn đầy năng lượng để tiếp tục chill với ae <3 <3 <3" //Nội dung của bức thư
+const mainContentLetter = "Chúc mừng sinh nhật nhé! Vậy là m lại thêm một tuổi và t thì lại có thêm một năm chịu đựng sự 'lầy lội' của m! 5 năm làm bạn mà t vẫn chưa bị m 'đập' đến mức chạy mất dép là cũng tài lắm rồi đấy. Tuổi mới hy vọng m sẽ bớt thức khuya, chăm chỉ hơn một tí, và đặc biệt là nhớ bớt 'đập' b đê! Chúc m luôn vui vẻ, khỏe mạnh, gặp nhiều may mắn và lúc nào cũng tràn đầy năng lượng để tiếp tục chill với ae <3 <3 <3" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
-imgStart.src = "./img/bbe.png";
+imgStart.src = "./img/z5920261004461_6e43878c25f61f8be3de1aa1245056d9.jpg";
 
 // Gắn 1 link ảnh bất kì
 let imgLetter = document.querySelector(".img");
